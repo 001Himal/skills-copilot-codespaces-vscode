@@ -1,3 +1,3 @@
 # skills-copilot-codespaces-vscode
-My clone repository /n
+My clone repository 
 This is my first commit
